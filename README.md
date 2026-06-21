@@ -85,3 +85,4 @@ Antràs, P., & Chor, D. (2013). Organizing the Global Value Chain. *Econometrica
 ---
 
 *Part of the Europe Under Pressure research series, exploring structural economic shocks across the EU.*
+
